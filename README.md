@@ -1,2 +1,2 @@
-# http://sa2608.githbu.io/sani
+# http://sa2608.githbub.io/sani
 portfolio website
